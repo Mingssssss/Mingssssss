@@ -2,6 +2,8 @@
 
 반갑습니다! 
 노력에 노력을 더해서 최선의 결과를 내는 개발자가 되겠습니다!
+
+블로그 주소: https://velog.io/@kteamin13
 <!--
 **Mingssssss/Mingssssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
